@@ -1,13 +1,23 @@
-### Olá! Seja bem-vindo! 👋
 
-<div align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=marianacadete&theme=youtube-dark&hide_border=true&border_radius=5&locale=pt_BR" alt="GitHub Streak" /></a>
+
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+    <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%21+Seja+bem-vindo%21%21" /></a>
 </div>
+
+
+
+
+<div align="center" style="margin-top: 20px;">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=marianacadete&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900" alt="GitHub Streak" /></a>
+</div>
+
+
 
 <div style="display: inline_block" align="center"><br>
  <img src='https://github-readme-stats.vercel.app/api?username=marianacadete&show_icons=true&count-private=true&theme=dracula' height="180em"/> 
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=marianacadete&count-private=true&theme=dracula&layout=compact' height="180em">
   </div>
+
 
 
 <div style="display: inline_block" align="center"><br>
