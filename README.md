@@ -1,12 +1,16 @@
 ### Olá! Seja bem-vindo! 👋
 
-<div style="display: inline_block"><br>
+<div align="center">
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=marianacadete&theme=youtube-dark&hide_border=true&border_radius=5&locale=pt_BR" alt="GitHub Streak" /></a>
+</div>
+
+<div style="display: inline_block" align="center"><br>
  <img src='https://github-readme-stats.vercel.app/api?username=marianacadete&show_icons=true&count-private=true&theme=dracula' height="180em"/> 
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=marianacadete&count-private=true&theme=dracula' height="180em">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=marianacadete&count-private=true&theme=dracula&layout=compact' height="180em">
   </div>
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mari-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -14,10 +18,19 @@
 
 ##
 
-<div> 
+<div align="center"> 
   <a href="https://www.youtube.com/channel/UC0O3Ia1NAUbfHnu6VRl81eg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://instagram.com/marianations" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:marianations@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mariana-cadete" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
+
+
+
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/marianacadete?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
+
+</div>
