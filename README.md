@@ -1,10 +1,13 @@
-
+<br>
+<br>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
     <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%21+Seja+bem-vindo%21%21" /></a>
+
+<br>
+<br>
+<br>
 </div>
-
-
 
 
 <div align="center" style="margin-top: 20px;">
@@ -44,3 +47,18 @@
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/marianacadete?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
 
 </div>
+
+<!--
+<div align="center">
+  
+<br>
+<br>
+<br>
+<br>
+
+<p align="centre"><b>Visitors Count</b></p> 
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmarianacadete&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<br>
+</div>
+-->
