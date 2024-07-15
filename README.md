@@ -2,7 +2,7 @@
 <br>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-    <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%21+Seja+bem-vindo%21%21" /></a>
+    
 
 <br>
 <br>
